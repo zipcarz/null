@@ -1,0 +1,4 @@
+
+1	+error-page
+2	+==========
+3	+jQuery.error = console.error;
